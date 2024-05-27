@@ -7,7 +7,7 @@ pkg update
 pkg install git -y
 pkg install python -y
 git clone https://github.com/TPR002/NUKED-BY-TPR
-cd Discord-Spammer
+cd NUKED-BY-TPR
 python 'NUKE TPR.py'
 ```
 
@@ -15,11 +15,11 @@ python 'NUKE TPR.py'
 
 ```
 git clone https://github.com/TPR002/NUKED-BY-TPR
-cd Discord-Spammer
+cd NUKED-BY-TPR
 python 'NUKE TPR.py'
 ```
 Install example 1 and use this command so you don't have to wait long :
 ```
-cd Discord-Spammer
+cd NUKED-BY-TPR
 python 'NUKE TPR.py'
 ```
